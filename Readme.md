@@ -18,28 +18,6 @@ It answers key business questions about sales performance, revenue trends, and p
 📊 Interactive Dashboard: View on Tableau Public
 
 
-## 📂 Repository Structure
-
-pizza-sales-analysis/
-│
-├── README.md                      # Project documentation
-│
-├── sql/
-│   ├── schema.sql                  # Database structure
-│   └── queries/                    # All analysis queries
-│       ├── q1_top_3_pizzas.sql
-│       ├── q2_monthly_growth.sql
-│       ├── ...
-│
-├── tableau/
-│   ├── pizza_sales_dashboard.twbx  # Final packaged Tableau dashboard
-│   └── dashboard_screenshot.png    # Preview image of dashboard
-│
-└── docs/
-    └── Pizza_Sales_Analysis.pdf    # Combined SQL + output + Tableau visuals report
-
-
-
 ## 📊 Business Questions & Analysis
 The project answers 8 key questions derived from real business analysis scenarios:
 
@@ -97,5 +75,6 @@ This project was developed as part of my Business/Data Analysis Internship to de
 3. Visualization & Reporting – Tableau dashboards, business insights
 
 4. Portfolio Presentation – Professional GitHub repository & PDF report
+
 
 
