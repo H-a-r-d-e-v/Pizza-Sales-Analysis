@@ -33,8 +33,6 @@ Q8	Best and worst-selling pizzas by quantity sold	Ranking functions
 
 
 ## 📊 Tableau Dashboard
-Preview:
-
 The dashboard provides:
 
 - KPI Cards – Total revenue, average order value, total quantity sold
@@ -75,6 +73,3 @@ This project was developed as part of my Business/Data Analysis Internship to de
 3. Visualization & Reporting – Tableau dashboards, business insights
 
 4. Portfolio Presentation – Professional GitHub repository & PDF report
-
-
-
