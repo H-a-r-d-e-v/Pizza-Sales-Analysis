@@ -51,11 +51,6 @@ The PDF report contains for each question:
 
 - MySQL query output
 
-- Corresponding Tableau visualization
-
-- A short business insight summary
-
-
 ## 🎯 Key Takeaways
 - SQL + Tableau combined workflow: From data extraction to business-ready dashboards
 
@@ -73,3 +68,4 @@ This project was developed as part of my Business/Data Analysis Internship to de
 3. Visualization & Reporting – Tableau dashboards, business insights
 
 4. Portfolio Presentation – Professional GitHub repository & PDF report
+
